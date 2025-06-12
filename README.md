@@ -62,8 +62,7 @@ This project was part of the **Advanced SQL module** in my curriculum and comple
 
 👤 **Shraddha Irale**  
 🎓 B.Tech (Computer Science), RIT Islampur  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/shraddha-irale)  
-📧 shraddha.irale@example.com (update if you want to display it)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/shraddha-irale-953790229/) 
 
 ---
 
